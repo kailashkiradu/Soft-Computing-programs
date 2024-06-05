@@ -64,8 +64,8 @@ To run these programs, you'll need to have Python installed on your machine. Clo
 ### Example Commands:
 
 ```bash
-git clone https://github.com/your-username/soft-computing-fourth-semester.git
-cd soft-computing-fourth-semester
+git clone https://github.com/kailashkiradu/Soft-Computing-programs.git
+cd Soft-Computing-programs
 
 # Run the City Fitness Genetic Algorithm program
 python CityFitnessGenetic.py
